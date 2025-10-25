@@ -16,7 +16,7 @@ let coffees = [
     price: 50000,
     region: "Aceh Gayo",
     flavorProfile: ["Citrus", "Floral", "Sweet"],
-    imageUrl: "https://upload.wikimedia.org/wikipedia/commons/4/45/Coffee_beans_arabica.jpg",
+    imageUrl: "https://images.pexels.com/photos/2246476/pexels-photo-2246476.jpeg",
     description: "Kopi dengan rasa halus dan tingkat keasaman yang lebih tinggi."
   },
   {
@@ -25,7 +25,7 @@ let coffees = [
     price: 40000,
     region: "Lampung",
     flavorProfile: ["Strong", "Bitter", "Earthy"],
-    imageUrl: "https://upload.wikimedia.org/wikipedia/commons/d/d1/Coffea_canephora_berries.jpg",
+    imageUrl: "https://images.pexels.com/photos/1532631/pexels-photo-1532631.jpeg",
     description: "Kopi dengan rasa kuat dan kadar kafein tinggi."
   },
   {
@@ -34,7 +34,7 @@ let coffees = [
     price: 60000,
     region: "Jambi",
     flavorProfile: ["Smoky", "Woody", "Unique"],
-    imageUrl: "https://upload.wikimedia.org/wikipedia/commons/b/b0/Coffea_liberica_fruit.jpg",
+    imageUrl: "https://images.pexels.com/photos/3329899/pexels-photo-3329899.jpeg",
     description: "Jenis kopi langka dengan aroma buah dan rasa eksotis."
   },
   {
@@ -43,7 +43,7 @@ let coffees = [
     price: 65000,
     region: "Sulawesi",
     flavorProfile: ["Fruity", "Tart", "Complex"],
-    imageUrl: "https://upload.wikimedia.org/wikipedia/commons/3/37/Coffea_excelsa.jpg",
+    imageUrl: "https://images.pexels.com/photos/3758876/pexels-photo-3758876.jpeg",
     description: "Memiliki rasa kompleks dengan sedikit asam dan aroma buah kering."
   },
   {
@@ -52,7 +52,7 @@ let coffees = [
     price: 80000,
     region: "Tana Toraja",
     flavorProfile: ["Earthy", "Nutty", "Sweet"],
-    imageUrl: "https://upload.wikimedia.org/wikipedia/commons/d/d8/Kopi_Toraja.jpg",
+    imageUrl: "https://images.pexels.com/photos/1880225/pexels-photo-1880225.jpeg",
     description: "Kopi premium dari Sulawesi dengan karakter lembut dan aroma rempah."
   },
   {
@@ -61,7 +61,7 @@ let coffees = [
     price: 75000,
     region: "Bali",
     flavorProfile: ["Citrus", "Clean", "Sweet"],
-    imageUrl: "https://upload.wikimedia.org/wikipedia/commons/a/a8/Bali_Kintamani_coffee.jpg",
+    imageUrl: "https://images.pexels.com/photos/3329894/pexels-photo-3329894.jpeg",
     description: "Kopi khas Bali dengan rasa jeruk yang segar dan aftertaste lembut."
   },
   {
@@ -70,7 +70,7 @@ let coffees = [
     price: 70000,
     region: "Sumatera Utara",
     flavorProfile: ["Chocolate", "Full-bodied", "Spicy"],
-    imageUrl: "https://upload.wikimedia.org/wikipedia/commons/8/8a/Mandheling_coffee.jpg",
+    imageUrl: "https://images.pexels.com/photos/2187962/pexels-photo-2187962.jpeg",
     description: "Kopi Sumatera dengan rasa tebal, aroma herbal, dan sedikit manis."
   },
   {
@@ -79,7 +79,7 @@ let coffees = [
     price: 200000,
     region: "Sumatera",
     flavorProfile: ["Smooth", "Caramel", "Mild"],
-    imageUrl: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Kopi_Luwak_beans.jpg",
+    imageUrl: "https://images.pexels.com/photos/3731272/pexels-photo-3731272.jpeg",
     description: "Kopi termahal di dunia yang difermentasi secara alami oleh luwak."
   },
   {
@@ -88,7 +88,7 @@ let coffees = [
     price: 85000,
     region: "Nusa Tenggara Timur",
     flavorProfile: ["Chocolate", "Floral", "Clean"],
-    imageUrl: "https://upload.wikimedia.org/wikipedia/commons/3/3b/Flores_Bajawa_coffee.jpg",
+    imageUrl: "https://images.pexels.com/photos/3329895/pexels-photo-3329895.jpeg",
     description: "Kopi dengan body sedang, aroma cokelat dan aftertaste bersih."
   },
   {
@@ -97,7 +97,7 @@ let coffees = [
     price: 70000,
     region: "Jawa Barat",
     flavorProfile: ["Caramel", "Nutty", "Balanced"],
-    imageUrl: "https://upload.wikimedia.org/wikipedia/commons/e/e3/Java_preanger_coffee.jpg",
+    imageUrl: "https://images.pexels.com/photos/1532645/pexels-photo-1532645.jpeg",
     description: "Kopi legendaris dengan keseimbangan rasa manis dan aroma kacang."
   },
   {
@@ -106,7 +106,7 @@ let coffees = [
     price: 90000,
     region: "Aceh Tengah",
     flavorProfile: ["Fruity", "Fermented", "Sweet"],
-    imageUrl: "https://upload.wikimedia.org/wikipedia/commons/f/f8/Gayo_Wine_Coffee.jpg",
+    imageUrl: "https://images.pexels.com/photos/3330246/pexels-photo-3330246.jpeg",
     description: "Kopi dengan proses fermentasi khusus menghasilkan aroma wine."
   },
   {
@@ -115,7 +115,7 @@ let coffees = [
     price: 95000,
     region: "Papua",
     flavorProfile: ["Herbal", "Sweet", "Clean"],
-    imageUrl: "https://upload.wikimedia.org/wikipedia/commons/6/6e/Papua_Wamena_coffee.jpg",
+    imageUrl: "https://images.pexels.com/photos/2199662/pexels-photo-2199662.jpeg",
     description: "Kopi organik dari dataran tinggi Papua dengan aroma ringan dan rasa bersih."
   }
 ];

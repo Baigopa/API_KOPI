@@ -16,7 +16,7 @@ let coffees = [
     price: 50000,
     region: "Aceh Gayo",
     flavorProfile: ["Citrus", "Floral", "Sweet"],
-    imageUrl: "https://images.pexels.com/photos/2246476/pexels-photo-2246476.jpeg",
+    imageUrl: "https://www.istockphoto.com/id/foto/kopi-hitam-dalam-gelas-putih-diletakkan-di-atas-meja-semen-tua-dengan-biji-kopi-gm1552871673-526527249",
     description: "Kopi dengan rasa halus dan tingkat keasaman yang lebih tinggi."
   },
   {
@@ -25,7 +25,7 @@ let coffees = [
     price: 40000,
     region: "Lampung",
     flavorProfile: ["Strong", "Bitter", "Earthy"],
-    imageUrl: "https://images.pexels.com/photos/1532631/pexels-photo-1532631.jpeg",
+    imageUrl: "https://www.istockphoto.com/id/foto/kopi-hitam-dalam-gelas-putih-diletakkan-di-atas-meja-semen-tua-dengan-biji-kopi-gm1552871673-526527249",
     description: "Kopi dengan rasa kuat dan kadar kafein tinggi."
   },
   {
@@ -34,7 +34,7 @@ let coffees = [
     price: 60000,
     region: "Jambi",
     flavorProfile: ["Smoky", "Woody", "Unique"],
-    imageUrl: "https://images.pexels.com/photos/3329899/pexels-photo-3329899.jpeg",
+    imageUrl: "https://www.istockphoto.com/id/foto/kopi-hitam-dalam-gelas-putih-diletakkan-di-atas-meja-semen-tua-dengan-biji-kopi-gm1552871673-526527249",
     description: "Jenis kopi langka dengan aroma buah dan rasa eksotis."
   },
   {
@@ -43,7 +43,7 @@ let coffees = [
     price: 65000,
     region: "Sulawesi",
     flavorProfile: ["Fruity", "Tart", "Complex"],
-    imageUrl: "https://images.pexels.com/photos/3758876/pexels-photo-3758876.jpeg",
+    imageUrl: "https://www.istockphoto.com/id/foto/kopi-hitam-dalam-gelas-putih-diletakkan-di-atas-meja-semen-tua-dengan-biji-kopi-gm1552871673-526527249",
     description: "Memiliki rasa kompleks dengan sedikit asam dan aroma buah kering."
   },
   {
@@ -52,7 +52,7 @@ let coffees = [
     price: 80000,
     region: "Tana Toraja",
     flavorProfile: ["Earthy", "Nutty", "Sweet"],
-    imageUrl: "https://images.pexels.com/photos/1880225/pexels-photo-1880225.jpeg",
+    imageUrl: "https://www.istockphoto.com/id/foto/kopi-hitam-dalam-gelas-putih-diletakkan-di-atas-meja-semen-tua-dengan-biji-kopi-gm1552871673-526527249",
     description: "Kopi premium dari Sulawesi dengan karakter lembut dan aroma rempah."
   },
   {
@@ -61,7 +61,7 @@ let coffees = [
     price: 75000,
     region: "Bali",
     flavorProfile: ["Citrus", "Clean", "Sweet"],
-    imageUrl: "https://images.pexels.com/photos/3329894/pexels-photo-3329894.jpeg",
+    imageUrl: "https://www.istockphoto.com/id/foto/kopi-hitam-dalam-gelas-putih-diletakkan-di-atas-meja-semen-tua-dengan-biji-kopi-gm1552871673-526527249",
     description: "Kopi khas Bali dengan rasa jeruk yang segar dan aftertaste lembut."
   },
   {
@@ -70,7 +70,7 @@ let coffees = [
     price: 70000,
     region: "Sumatera Utara",
     flavorProfile: ["Chocolate", "Full-bodied", "Spicy"],
-    imageUrl: "https://images.pexels.com/photos/2187962/pexels-photo-2187962.jpeg",
+    imageUrl: "https://www.istockphoto.com/id/foto/kopi-hitam-dalam-gelas-putih-diletakkan-di-atas-meja-semen-tua-dengan-biji-kopi-gm1552871673-526527249",
     description: "Kopi Sumatera dengan rasa tebal, aroma herbal, dan sedikit manis."
   },
   {
@@ -79,7 +79,7 @@ let coffees = [
     price: 200000,
     region: "Sumatera",
     flavorProfile: ["Smooth", "Caramel", "Mild"],
-    imageUrl: "https://images.pexels.com/photos/3731272/pexels-photo-3731272.jpeg",
+    imageUrl: "https://www.istockphoto.com/id/foto/kopi-hitam-dalam-gelas-putih-diletakkan-di-atas-meja-semen-tua-dengan-biji-kopi-gm1552871673-526527249",
     description: "Kopi termahal di dunia yang difermentasi secara alami oleh luwak."
   },
   {
@@ -88,7 +88,7 @@ let coffees = [
     price: 85000,
     region: "Nusa Tenggara Timur",
     flavorProfile: ["Chocolate", "Floral", "Clean"],
-    imageUrl: "https://images.pexels.com/photos/3329895/pexels-photo-3329895.jpeg",
+    imageUrl: "https://www.istockphoto.com/id/foto/kopi-hitam-dalam-gelas-putih-diletakkan-di-atas-meja-semen-tua-dengan-biji-kopi-gm1552871673-526527249",
     description: "Kopi dengan body sedang, aroma cokelat dan aftertaste bersih."
   },
   {
@@ -97,7 +97,7 @@ let coffees = [
     price: 70000,
     region: "Jawa Barat",
     flavorProfile: ["Caramel", "Nutty", "Balanced"],
-    imageUrl: "https://images.pexels.com/photos/1532645/pexels-photo-1532645.jpeg",
+    imageUrl: "https://www.istockphoto.com/id/foto/kopi-hitam-dalam-gelas-putih-diletakkan-di-atas-meja-semen-tua-dengan-biji-kopi-gm1552871673-526527249",
     description: "Kopi legendaris dengan keseimbangan rasa manis dan aroma kacang."
   },
   {
@@ -106,7 +106,7 @@ let coffees = [
     price: 90000,
     region: "Aceh Tengah",
     flavorProfile: ["Fruity", "Fermented", "Sweet"],
-    imageUrl: "https://images.pexels.com/photos/3330246/pexels-photo-3330246.jpeg",
+    imageUrl: "https://www.istockphoto.com/id/foto/kopi-hitam-dalam-gelas-putih-diletakkan-di-atas-meja-semen-tua-dengan-biji-kopi-gm1552871673-526527249",
     description: "Kopi dengan proses fermentasi khusus menghasilkan aroma wine."
   },
   {
@@ -115,7 +115,7 @@ let coffees = [
     price: 95000,
     region: "Papua",
     flavorProfile: ["Herbal", "Sweet", "Clean"],
-    imageUrl: "https://images.pexels.com/photos/2199662/pexels-photo-2199662.jpeg",
+    imageUrl: "https://www.istockphoto.com/id/foto/kopi-hitam-dalam-gelas-putih-diletakkan-di-atas-meja-semen-tua-dengan-biji-kopi-gm1552871673-526527249",
     description: "Kopi organik dari dataran tinggi Papua dengan aroma ringan dan rasa bersih."
   }
 ];
